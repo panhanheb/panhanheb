@@ -1,84 +1,159 @@
-# Hi there 👋, I'm Panha
+<!-- ================= HERO BANNER ================= -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
-
----
-
-### 🚀 About Me
-
-* 🔭 Currently working on **Flutter & Supabase Projects**
-* 🌱 Learning **Advanced Flutter Architecture**
-* 💬 Ask me about **Flutter, Laravel, Vue.js, Supabase**
-* ⚡ Love building beautiful mobile applications
-* 🎯 Goal: Become a professional Full Stack Developer
-
----
-
-### 🛠️ Tech Stack
+<h3 align="center">
+🚀Flutter Developer • Mobile App Architect • Supabase Specialist • Clean Architecture Expert
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,vue,firebase,supabase,mysql,git,github,vscode,figma" />
+Building scalable mobile applications with Flutter, Supabase, Firebase, and modern architectures.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=7A3FF2&center=true&vCenter=true&width=900&lines=Flutter+Developer;Clean+Architecture+Expert;Supabase+Specialist;Mobile+App+Architect;Crafting+Beautiful+User+Experiences;Always+Learning+Always+Building" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+```yaml
+Name: Nheb Panha
+Location: Cambodia 🇰🇭
+Role: Flutter Developer
+Experience: Mobile App Development
+Specialization:
+  - Flutter
+  - Clean Architecture
+  - Supabase
+  - Firebase
+  - REST API Integration
+  - UI/UX Design
+
+Current Focus:
+  - Enterprise Mobile Applications
+  - ERP Systems
+  - E-Commerce Solutions
+  - Construction Material Management Systems
+  - Telegram Automation Platforms
+```
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panhanheb&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhanheb&layout=compact&theme=tokyonight" />
+
+<a href="https://github.com/NhebPanha">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="mailto:nhebpanha78@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panhanheb&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,mysql,java,spring,vue,figma,git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏗 Architecture & Skills
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=panhanheb&theme=tokyonight&row=1&column=6" />
+
+<img src="https://img.shields.io/badge/Clean_Architecture-7A3FF2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BLoC-FF2D55?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Riverpod-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MVVM-7A3FF2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-FF9500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" />
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/panhanheb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhebPanha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NhebPanha&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhebPanha&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 👀 Profile Views
+## 🚀 Featured Expertise
+
+### 📱 Flutter Development
+
+* Cross-platform Mobile Apps
+* Custom UI/UX Design
+* Performance Optimization
+* State Management (Bloc, Riverpod)
+
+### ☁ Backend Integration
+
+* Supabase
+* Firebase
+* Laravel API
+* Spring Boot API
+
+### 🏗 System Design
+
+* Clean Architecture
+* Scalable App Structure
+* Repository Pattern
+* Dependency Injection
+
+---
+
+## 💬 Developer Philosophy
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panhanheb&label=Profile%20Views&color=0e75b6&style=flat" />
+
+> "Great applications are not just built with code. They are built with architecture, performance, and user experience in mind."
+
 </p>
 
 ---
 
-### 🐍 Contribution Snake Animation
+## 📈 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/panhanheb/panhanheb/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhebPanha&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-### 💖 Thanks for visiting my profile!
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+---
 
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7A3FF2,50:FF2D55,100:00D4FF"/>
+</p>
+
+<p align="center">
+⭐ If you like my work, consider following my GitHub profile.
+</p>
+
