@@ -1,40 +1,56 @@
-<!-- ================= HERO BANNER ================= -->
+# 🚀 Nheb Panha | Flutter Developer
 
 <h3 align="center">
-🚀Flutter Developer • Mobile App Architect • Supabase Specialist • Clean Architecture Expert
+  Flutter Developer • Mobile App Developer • Supabase Specialist
 </h3>
 
 <p align="center">
-Building scalable mobile applications with Flutter, Supabase, Firebase, and modern architectures.
+  Building scalable, maintainable, and beautiful mobile applications with Flutter, Dart, and modern backend technologies.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=7A3FF2&center=true&vCenter=true&width=900&lines=Flutter+Developer;Clean+Architecture+Expert;Supabase+Specialist;Mobile+App+Architect;Crafting+Beautiful+User+Experiences;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Flutter+%26+Dart+Developer;Clean+Architecture+%26+BLoC;Supabase+%26+Firebase+Integration;Mobile+App+UI%2FUX;Building+Scalable+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-00D4FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-7A3FF2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```yaml
-Name: Nheb Panha
-Location: Cambodia 🇰🇭
-Role: Flutter Developer
-Experience: Mobile App Development
-Specialization:
-  - Flutter
-  - Clean Architecture
-  - Supabase
-  - Firebase
-  - REST API Integration
-  - UI/UX Design
+Hi! I'm **Nheb Panha**, a Flutter developer from Cambodia 🇰🇭 who enjoys building mobile applications with clean architecture, thoughtful UI/UX, and reliable backend integration.
 
-Current Focus:
-  - Enterprise Mobile Applications
+* 📱 Developing cross-platform applications with Flutter and Dart.
+* 🏗️ Structuring maintainable applications with Clean Architecture and repository patterns.
+* 🔄 Managing application state using BLoC/Cubit, Provider, and Riverpod.
+* ☁️ Integrating Supabase, Firebase, and REST APIs.
+* 🎨 Creating intuitive interfaces and responsive user experiences.
+* 📚 Continuously learning new technologies and improving my development skills.
+
+```yaml
+name: Nheb Panha
+location: Cambodia 🇰🇭
+primary_language: Dart
+primary_framework: Flutter
+
+interests:
+  - Mobile Application Development
+  - Clean Architecture
+  - Backend Integration
+  - UI/UX Engineering
+  - Database Design
+  - Performance Optimization
+
+currently_exploring:
+  - E-Commerce Applications
   - ERP Systems
-  - E-Commerce Solutions
-  - Construction Material Management Systems
-  - Telegram Automation Platforms
+  - Business Management Platforms
+  - Image Recognition
+  - Automation Solutions
 ```
 
 ---
@@ -42,93 +58,80 @@ Current Focus:
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/NhebPanha">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="mailto:nhebpanha78@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF2D55?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
+  <a href="https://github.com/NhebPanha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:nhebpanha78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,mysql,java,spring,vue,figma,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,postgres,mysql,java,spring,vue,figma,git,github,linux,vscode,postman&perline=8" alt="Technology Stack" />
 </p>
 
----
+### 📱 Mobile Development
 
-## 🏗 Architecture & Skills
+* Flutter & Dart
+* Cross-platform application development
+* Responsive UI and custom widgets
+* BLoC/Cubit, Provider & Riverpod
+* Application debugging and optimization
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Clean_Architecture-7A3FF2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BLoC-FF2D55?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Riverpod-00D4FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MVVM-7A3FF2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-FF9500?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge" />
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NhebPanha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NhebPanha&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhebPanha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 Featured Expertise
-
-### 📱 Flutter Development
-
-* Cross-platform Mobile Apps
-* Custom UI/UX Design
-* Performance Optimization
-* State Management (Bloc, Riverpod)
-
-### ☁ Backend Integration
-
-* Supabase
-* Firebase
-* Laravel API
-* Spring Boot API
-
-### 🏗 System Design
+### 🏗️ Architecture & Engineering
 
 * Clean Architecture
-* Scalable App Structure
-* Repository Pattern
-* Dependency Injection
+* MVVM and Repository Pattern
+* Separation of concerns
+* Dependency injection
+* Reusable and maintainable code
+
+### ☁️ Backend & Databases
+
+* Supabase & PostgreSQL
+* Firebase Authentication and backend services
+* REST API integration
+* MySQL and SQL
+* Laravel API and Spring Boot API integration
+
+### 🎨 Tools & Workflow
+
+* Git & GitHub
+* Visual Studio Code
+* Android Studio
+* Postman
+* Figma
 
 ---
 
-## 💬 Developer Philosophy
+## 🧩 Core Competencies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-7A3FF2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-00D4FF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-FF9500?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-> "Great applications are not just built with code. They are built with architecture, performance, and user experience in mind."
+---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NhebPanha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NhebPanha&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhebPanha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
@@ -136,7 +139,7 @@ Current Focus:
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NhebPanha&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhebPanha&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -144,16 +147,26 @@ Current Focus:
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
+## 💡 My Development Philosophy
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7A3FF2,50:FF2D55,100:00D4FF"/>
+  <i>"Great applications are built with thoughtful architecture, reliable performance, and meaningful user experiences."</i>
+</p>
+
+I believe good software engineering is about more than making an application work. It's about writing understandable code, designing for future growth, and building products that solve real problems.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7A3FF2,100:111827&height=120&section=footer" alt="Footer Banner" />
 </p>
 
 <p align="center">
-⭐ If you like my work, consider following my GitHub profile.
+  <b>Thanks for visiting my profile!</b><br/>
+  ⭐ Feel free to explore my repositories and connect with me.
 </p>
-
